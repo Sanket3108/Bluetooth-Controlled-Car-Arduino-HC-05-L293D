@@ -168,9 +168,3 @@ src/
 - Replace Bluetooth with Wi-Fi/BLE
 - Add an Android application with a custom control interface
 
-## Author
-
-**Sanket Prajapati**
-
-Electronics & Communication Engineering  
-Embedded Systems | Embedded C | Microcontrollers | Communication Protocols
